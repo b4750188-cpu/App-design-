@@ -1,0 +1,765 @@
+{
+  "users": [
+    {
+      "id": "usr_default_admin",
+      "email": "analyst@opportunityfinder.global",
+      "name": "Lead Business Analyst",
+      "role": "admin",
+      "createdAt": "2026-09-29T15:56:44.692Z",
+      "updatedAt": "2026-09-29T15:56:44.692Z"
+    }
+  ],
+  "businesses": [
+    {
+      "id": "biz_e6260f02-13fd-47cc-9762-c1e8d29c7656",
+      "name": "Completely Unique Dental Care",
+      "normalizedName": "completely unique dental care",
+      "primaryCategory": "establishment",
+      "status": "OPERATIONAL",
+      "websiteStatus": "NO_WEBSITE_DETECTED",
+      "firstDiscovered": "2026-09-29T16:05:23.085Z",
+      "lastChecked": "2026-09-29T16:05:23.085Z",
+      "lastModified": "2026-09-29T16:05:23.085Z",
+      "confidence": "HIGH",
+      "primaryProvider": "google_places",
+      "primaryProviderId": "test_place_unique_brand_new",
+      "rawData": {}
+    },
+    {
+      "id": "biz_c1f89fbd-22f4-49d8-9978-f66d059165c1",
+      "name": "Example Test Cafe Phone Match",
+      "normalizedName": "example test cafe phone match",
+      "primaryCategory": "establishment",
+      "status": "OPERATIONAL",
+      "websiteStatus": "NO_WEBSITE_DETECTED",
+      "firstDiscovered": "2026-09-29T16:05:12.892Z",
+      "lastChecked": "2026-09-29T16:05:23.084Z",
+      "lastModified": "2026-09-29T16:05:23.084Z",
+      "confidence": "HIGH",
+      "primaryProvider": "google_places",
+      "primaryProviderId": "test_place_different_id",
+      "rawData": {}
+    }
+  ],
+  "business_identifiers": [
+    {
+      "id": "ident_80366e8c-1ce1-440e-9c98-f2320bbd5be3",
+      "businessId": "biz_c1f89fbd-22f4-49d8-9978-f66d059165c1",
+      "provider": "google_places",
+      "identifierType": "place_id",
+      "identifierValue": "test_place_example_1",
+      "confidence": "HIGH",
+      "firstSeen": "2026-09-29T16:05:12.892Z",
+      "lastSeen": "2026-09-29T16:05:23.080Z"
+    },
+    {
+      "id": "ident_9d1bf0ba-f44c-4ff6-8cac-b89e3cb35abc",
+      "businessId": "biz_c1f89fbd-22f4-49d8-9978-f66d059165c1",
+      "provider": "google_places",
+      "identifierType": "place_id",
+      "identifierValue": "test_place_different_id",
+      "confidence": "HIGH",
+      "firstSeen": "2026-09-29T16:05:12.892Z",
+      "lastSeen": "2026-09-29T16:05:23.084Z"
+    },
+    {
+      "id": "ident_eeaba97d-81d0-4f9c-b0cf-13ad5e1b2f6f",
+      "businessId": "biz_e6260f02-13fd-47cc-9762-c1e8d29c7656",
+      "provider": "google_places",
+      "identifierType": "place_id",
+      "identifierValue": "test_place_unique_brand_new",
+      "confidence": "HIGH",
+      "firstSeen": "2026-09-29T16:05:23.085Z",
+      "lastSeen": "2026-09-29T16:05:23.085Z"
+    }
+  ],
+  "business_categories": [
+    {
+      "id": "cat_61cab535-67b1-41ed-9ee5-d05eda757c2d",
+      "businessId": "biz_c1f89fbd-22f4-49d8-9978-f66d059165c1",
+      "industryGroup": "cafe",
+      "categoryCode": "cafe",
+      "categoryLabel": "cafe",
+      "isPrimary": true,
+      "confidence": "HIGH"
+    },
+    {
+      "id": "cat_b15299ae-db47-4546-9f5c-36c27327b6d8",
+      "businessId": "biz_c1f89fbd-22f4-49d8-9978-f66d059165c1",
+      "industryGroup": "cafe",
+      "categoryCode": "food",
+      "categoryLabel": "food",
+      "isPrimary": false,
+      "confidence": "HIGH"
+    },
+    {
+      "id": "cat_fcaea745-86a4-412b-9bff-d2dd02cc6d31",
+      "businessId": "biz_c1f89fbd-22f4-49d8-9978-f66d059165c1",
+      "industryGroup": "cafe",
+      "categoryCode": "restaurant",
+      "categoryLabel": "restaurant",
+      "isPrimary": false,
+      "confidence": "HIGH"
+    }
+  ],
+  "business_locations": [
+    {
+      "id": "loc_735e010d-eb3c-435d-81a1-b5885bf76f3c",
+      "businessId": "biz_c1f89fbd-22f4-49d8-9978-f66d059165c1",
+      "country": "Different Address",
+      "isoCountryCode": "XX",
+      "region": "",
+      "city": "",
+      "formattedAddress": "Different Address",
+      "timezone": "UTC",
+      "localLanguage": "en",
+      "isRtl": false
+    },
+    {
+      "id": "loc_9ad6ca7b-e762-40aa-94f4-6f74bee286c0",
+      "businessId": "biz_e6260f02-13fd-47cc-9762-c1e8d29c7656",
+      "country": "456 Elm St, Chicago, IL, USA",
+      "isoCountryCode": "XX",
+      "region": "",
+      "city": "",
+      "formattedAddress": "456 Elm St, Chicago, IL, USA",
+      "timezone": "UTC",
+      "localLanguage": "en",
+      "isRtl": false
+    }
+  ],
+  "business_contacts": [
+    {
+      "id": "cnt_69501d7b-1dc5-46c6-bff7-d1ad8e916ff6",
+      "businessId": "biz_c1f89fbd-22f4-49d8-9978-f66d059165c1",
+      "contactType": "phone",
+      "value": "(212) 555-0199",
+      "normalizedValue": "+12125550199",
+      "source": "google_places",
+      "confidence": "HIGH",
+      "isVerified": true,
+      "hasConflict": false,
+      "discoveredAt": "2026-09-29T16:05:12.892Z"
+    },
+    {
+      "id": "cnt_dc914dc3-53e4-469e-be23-6f38ebf3710a",
+      "businessId": "biz_c1f89fbd-22f4-49d8-9978-f66d059165c1",
+      "contactType": "international_phone",
+      "value": "+1 212-555-0199",
+      "normalizedValue": "+12125550199",
+      "source": "google_places",
+      "confidence": "HIGH",
+      "isVerified": true,
+      "hasConflict": false,
+      "discoveredAt": "2026-09-29T16:05:23.084Z"
+    },
+    {
+      "id": "cnt_a2469ab3-7f6b-4823-ab89-9b804df96e64",
+      "businessId": "biz_e6260f02-13fd-47cc-9762-c1e8d29c7656",
+      "contactType": "international_phone",
+      "value": "+1 312-555-9988",
+      "normalizedValue": "+13125559988",
+      "source": "google_places",
+      "confidence": "HIGH",
+      "isVerified": true,
+      "hasConflict": false,
+      "discoveredAt": "2026-09-29T16:05:23.085Z"
+    },
+    {
+      "id": "cnt_updated_phone",
+      "businessId": "biz_e6260f02-13fd-47cc-9762-c1e8d29c7656",
+      "contactType": "phone",
+      "value": "+1 212-555-9999",
+      "normalizedValue": "+12125559999",
+      "source": "user_manual",
+      "confidence": "HIGH",
+      "isVerified": true,
+      "hasConflict": false,
+      "discoveredAt": "2026-09-29T16:05:43.619Z"
+    }
+  ],
+  "business_sources": [
+    {
+      "id": "src_a346d9a6-dec6-4c92-9087-6c760590c933",
+      "businessId": "biz_c1f89fbd-22f4-49d8-9978-f66d059165c1",
+      "sourceName": "google_places",
+      "externalId": "test_place_example_1",
+      "retrievedAt": "2026-09-29T16:05:12.892Z",
+      "endpointCalled": "/places:searchText",
+      "fieldsRetrieved": [
+        "id",
+        "displayName",
+        "formattedAddress",
+        "websiteUri",
+        "nationalPhoneNumber"
+      ]
+    },
+    {
+      "id": "src_a84a444e-aa46-4538-afd5-7b9261f125ed",
+      "businessId": "biz_c1f89fbd-22f4-49d8-9978-f66d059165c1",
+      "sourceName": "google_places",
+      "externalId": "test_place_example_1",
+      "retrievedAt": "2026-09-29T16:05:23.080Z",
+      "endpointCalled": "/places:searchText",
+      "fieldsRetrieved": [
+        "id",
+        "displayName",
+        "formattedAddress",
+        "websiteUri",
+        "nationalPhoneNumber"
+      ]
+    },
+    {
+      "id": "src_d7888a76-cb18-4d85-9465-55804e5f80ee",
+      "businessId": "biz_c1f89fbd-22f4-49d8-9978-f66d059165c1",
+      "sourceName": "google_places",
+      "externalId": "test_place_different_id",
+      "retrievedAt": "2026-09-29T16:05:23.084Z",
+      "endpointCalled": "/places:searchText",
+      "fieldsRetrieved": [
+        "id",
+        "displayName",
+        "formattedAddress",
+        "websiteUri",
+        "nationalPhoneNumber"
+      ]
+    },
+    {
+      "id": "src_65cb724c-efa6-4f6e-9b2b-a152d5d17797",
+      "businessId": "biz_e6260f02-13fd-47cc-9762-c1e8d29c7656",
+      "sourceName": "google_places",
+      "externalId": "test_place_unique_brand_new",
+      "retrievedAt": "2026-09-29T16:05:23.085Z",
+      "endpointCalled": "/places:searchText",
+      "fieldsRetrieved": [
+        "id",
+        "displayName",
+        "formattedAddress",
+        "websiteUri",
+        "nationalPhoneNumber"
+      ]
+    }
+  ],
+  "websites": [
+    {
+      "id": "ws_6d4cf01c-9177-460f-873b-918bb2c26c40",
+      "businessId": "biz_c1f89fbd-22f4-49d8-9978-f66d059165c1",
+      "originalUrl": "https://example.com",
+      "normalizedUrl": "https://example.com",
+      "domain": "example.com",
+      "protocol": "https",
+      "isHttps": true,
+      "isLive": true,
+      "source": "google_places",
+      "detectionDate": "2026-09-29T16:05:12.892Z",
+      "lastChecked": "2026-09-29T16:05:13.001Z",
+      "dnsResolved": false,
+      "httpStatusCode": 200
+    }
+  ],
+  "website_audits": [
+    {
+      "id": "audit_9c2eff81-33ff-47e3-8232-c4bc02a05ee6",
+      "websiteId": "ws_6d4cf01c-9177-460f-873b-918bb2c26c40",
+      "businessId": "biz_c1f89fbd-22f4-49d8-9978-f66d059165c1",
+      "auditDate": "2026-09-29T16:05:12.897Z",
+      "status": "COMPLETED",
+      "httpStatus": 200,
+      "httpsEnforced": true,
+      "hasCanonical": false,
+      "hasViewportMeta": true,
+      "viewportContent": "width=device-width,initial-scale=1",
+      "hasResponsiveElements": false,
+      "mobileSignalsDetected": [
+        "viewport_tag"
+      ],
+      "pageTitle": "Example Domain",
+      "pageTitleLength": 14,
+      "metaDescriptionLength": 0,
+      "h1Count": 0,
+      "h2Count": 0,
+      "hasStructuredData": false,
+      "structuredDataTypes": [],
+      "hasBusinessDescription": false,
+      "hasServicesListed": false,
+      "hasProductsListed": false,
+      "hasPricing": false,
+      "hasHoursDisplayed": false,
+      "hasContactForm": false,
+      "hasClickToCall": false,
+      "hasMailto": false,
+      "hasBookingSystem": false,
+      "hasOnlineOrdering": false,
+      "ttfbMs": 58,
+      "totalPageSizeBytes": 713,
+      "resourceCount": 1,
+      "outdatedSignals": [],
+      "evidenceLog": [
+        {
+          "test": "HTTP Status Code",
+          "result": "200 (Tested against https://example.com)",
+          "timestamp": "2026-09-29T16:05:12.897Z",
+          "source": "HTTP Website Crawl"
+        },
+        {
+          "test": "HTTPS Protocol",
+          "result": "Enforced (Secure transport detected)",
+          "timestamp": "2026-09-29T16:05:12.897Z",
+          "source": "HTTP Website Crawl"
+        },
+        {
+          "test": "Canonical Tag",
+          "result": "Not detected",
+          "timestamp": "2026-09-29T16:05:12.897Z",
+          "source": "HTTP Website Crawl"
+        },
+        {
+          "test": "Mobile Viewport Meta",
+          "result": "Detected (width=device-width,initial-scale=1)",
+          "timestamp": "2026-09-29T16:05:12.897Z",
+          "source": "HTTP Website Crawl"
+        },
+        {
+          "test": "Page Title",
+          "result": "\"Example Domain\" (14 chars)",
+          "timestamp": "2026-09-29T16:05:12.897Z",
+          "source": "HTTP Website Crawl"
+        },
+        {
+          "test": "Meta Description",
+          "result": "No meta description detected",
+          "timestamp": "2026-09-29T16:05:12.897Z",
+          "source": "HTTP Website Crawl"
+        },
+        {
+          "test": "H1 Headings",
+          "result": "0 detected",
+          "timestamp": "2026-09-29T16:05:12.897Z",
+          "source": "HTTP Website Crawl"
+        },
+        {
+          "test": "H2 Headings",
+          "result": "0 detected",
+          "timestamp": "2026-09-29T16:05:12.897Z",
+          "source": "HTTP Website Crawl"
+        },
+        {
+          "test": "Structured Data (JSON-LD)",
+          "result": "None detected",
+          "timestamp": "2026-09-29T16:05:12.897Z",
+          "source": "HTTP Website Crawl"
+        },
+        {
+          "test": "Service Information",
+          "result": "No explicit services signals detected",
+          "timestamp": "2026-09-29T16:05:12.897Z",
+          "source": "HTTP Website Crawl"
+        },
+        {
+          "test": "Pricing Information",
+          "result": "No visible pricing signals detected",
+          "timestamp": "2026-09-29T16:05:12.897Z",
+          "source": "HTTP Website Crawl"
+        },
+        {
+          "test": "Opening Hours on Site",
+          "result": "No opening hours detected",
+          "timestamp": "2026-09-29T16:05:12.897Z",
+          "source": "HTTP Website Crawl"
+        },
+        {
+          "test": "Contact Form",
+          "result": "No contact form detected",
+          "timestamp": "2026-09-29T16:05:12.897Z",
+          "source": "HTTP Website Crawl"
+        },
+        {
+          "test": "Click-to-Call Link (tel:)",
+          "result": "Not detected",
+          "timestamp": "2026-09-29T16:05:12.897Z",
+          "source": "HTTP Website Crawl"
+        },
+        {
+          "test": "Email Link (mailto:)",
+          "result": "Not detected",
+          "timestamp": "2026-09-29T16:05:12.897Z",
+          "source": "HTTP Website Crawl"
+        },
+        {
+          "test": "Booking/Reservation Mechanism",
+          "result": "No booking mechanism detected",
+          "timestamp": "2026-09-29T16:05:12.897Z",
+          "source": "HTTP Website Crawl"
+        },
+        {
+          "test": "Online Ordering Mechanism",
+          "result": "No online ordering detected",
+          "timestamp": "2026-09-29T16:05:12.897Z",
+          "source": "HTTP Website Crawl"
+        },
+        {
+          "test": "Official Social Links",
+          "result": "No social links detected on the crawled page",
+          "timestamp": "2026-09-29T16:05:12.897Z",
+          "source": "HTTP Website Crawl"
+        },
+        {
+          "test": "Initial Response Time (Measured)",
+          "result": "58 ms under test",
+          "timestamp": "2026-09-29T16:05:12.897Z",
+          "source": "HTTP Website Crawl"
+        },
+        {
+          "test": "HTML Page Size (Measured)",
+          "result": "1 KB",
+          "timestamp": "2026-09-29T16:05:12.897Z",
+          "source": "HTTP Website Crawl"
+        },
+        {
+          "test": "Resource References (Measured)",
+          "result": "1 (Scripts: 1, Images: 0, Stylesheets: 0)",
+          "timestamp": "2026-09-29T16:05:12.897Z",
+          "source": "HTTP Website Crawl"
+        }
+      ]
+    }
+  ],
+  "website_pages": [
+    {
+      "id": "page_03f7d5ed-2bec-443e-8b54-c0ca0e6df945",
+      "websiteId": "ws_6d4cf01c-9177-460f-873b-918bb2c26c40",
+      "url": "https://example.com",
+      "pageType": "home",
+      "httpStatus": 200,
+      "title": "Example Domain",
+      "crawledAt": "2026-09-29T16:05:12.897Z"
+    }
+  ],
+  "website_links": [
+    {
+      "id": "lnk_5d5e47cf-1ec4-4908-b047-2153ee7877a7",
+      "websiteId": "ws_6d4cf01c-9177-460f-873b-918bb2c26c40",
+      "fromPageUrl": "https://example.com",
+      "toUrl": "https://iana.org/help/example-domains",
+      "isInternal": false,
+      "isBroken": false
+    }
+  ],
+  "social_profiles": [],
+  "social_observations": [],
+  "business_relationships": [],
+  "opportunities": [
+    {
+      "id": "opp_b56d3d0c-712d-4a90-bdbf-ea489c3a7b01",
+      "businessId": "biz_c1f89fbd-22f4-49d8-9978-f66d059165c1",
+      "type": "NO_WEBSITE_DETECTED",
+      "title": "No Official Website Detected from Provider",
+      "reasoning": "The provider returned no official website URL for this active Food & Drink (Restaurants & Cafes) business. Establishing a dedicated digital presence can capture local searches and provide customers with direct service and contact information. Note: This reflects current provider data, not an absolute guarantee of non-existence elsewhere.",
+      "confidence": "HIGH",
+      "severity": "HIGH",
+      "firstIdentified": "2026-09-29T16:05:23.084Z",
+      "lastVerified": "2026-09-29T16:05:23.084Z",
+      "isResolved": false,
+      "recommendedWebsiteType": "Restaurant Website",
+      "recommendedFeatures": [
+        "Digital Menu",
+        "Operating Hours",
+        "Location & Directions",
+        "Contact Number",
+        "Mobile-Friendly Layout"
+      ]
+    },
+    {
+      "id": "opp_ccaacc37-13ad-4cec-b8a2-dd0ad225af25",
+      "businessId": "biz_e6260f02-13fd-47cc-9762-c1e8d29c7656",
+      "type": "NO_WEBSITE_DETECTED",
+      "title": "No Official Website Detected from Provider",
+      "reasoning": "The provider returned no official website URL for this active Healthcare & Dental business. Establishing a dedicated digital presence can capture local searches and provide customers with direct service and contact information. Note: This reflects current provider data, not an absolute guarantee of non-existence elsewhere.",
+      "confidence": "HIGH",
+      "severity": "HIGH",
+      "firstIdentified": "2026-09-29T16:05:43.621Z",
+      "lastVerified": "2026-09-29T16:05:43.621Z",
+      "isResolved": false,
+      "recommendedWebsiteType": "Healthcare Practice Website",
+      "recommendedFeatures": [
+        "Practice Areas & Treatments",
+        "Practitioner Credentials",
+        "Opening Hours & Location",
+        "Appointment Request Form",
+        "Emergency Contact"
+      ]
+    }
+  ],
+  "opportunity_evidence": [
+    {
+      "id": "ev_a33225e5-7b24-46fd-8ea0-988600618966",
+      "opportunityId": "opp_aea2c09a-136b-41d2-bf14-c111a62a95d4",
+      "businessId": "biz_c1f89fbd-22f4-49d8-9978-f66d059165c1",
+      "testName": "Comprehensive Audit Verification",
+      "evidenceText": "All baseline technical, mobile, and contact health checks completed with satisfactory results.",
+      "source": "Website Audit Engine",
+      "observedAt": "2026-09-29T16:05:12.894Z",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ev_4c4c36b3-1809-4ddf-bb4c-d3a3514d882b",
+      "opportunityId": "opp_deaf77ae-1327-4a7f-831a-476e2484a237",
+      "businessId": "biz_c1f89fbd-22f4-49d8-9978-f66d059165c1",
+      "testName": "Contact Form & Action Link Discovery",
+      "evidenceText": "Scanned 0 forms, 0 tel: links, and 0 mailto: links on the target page.",
+      "source": "Website Audit Engine",
+      "observedAt": "2026-09-29T16:05:13.001Z",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ev_8a9daec2-0b49-4b17-90fe-554bad2264be",
+      "opportunityId": "opp_e4bfdea8-1003-4c4d-82c4-7801593f03c3",
+      "businessId": "biz_c1f89fbd-22f4-49d8-9978-f66d059165c1",
+      "testName": "Industry Functional Gap Check",
+      "evidenceText": "Business categorized as Food & Drink (Restaurants & Cafes); no reservation or calendar widget keywords/scripts were detected.",
+      "source": "Industry Engine + Audit Log",
+      "observedAt": "2026-09-29T16:05:13.001Z",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": "ev_30a5d7f2-a5d4-48d9-863b-b8e80d28924f",
+      "opportunityId": "opp_99bf1b7d-6367-4330-bcc5-de79b036c483",
+      "businessId": "biz_c1f89fbd-22f4-49d8-9978-f66d059165c1",
+      "testName": "JSON-LD Schema Verification",
+      "evidenceText": "0 structured data application/ld+json blocks detected on page.",
+      "source": "Website Audit Engine",
+      "observedAt": "2026-09-29T16:05:13.001Z",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ev_e2357879-758b-493a-b376-6220044adf32",
+      "opportunityId": "opp_8bf35a02-e847-44b3-b789-631fbdd5c7c4",
+      "businessId": "biz_c1f89fbd-22f4-49d8-9978-f66d059165c1",
+      "testName": "Provider Website URI Query",
+      "evidenceText": "Google Places provider returned no website URI for this establishment.",
+      "source": "Google Places API (New)",
+      "observedAt": "2026-09-29T16:05:23.082Z",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ev_205d5d00-3f46-4094-8f4e-fa69fab5af05",
+      "opportunityId": "opp_8bf35a02-e847-44b3-b789-631fbdd5c7c4",
+      "businessId": "biz_c1f89fbd-22f4-49d8-9978-f66d059165c1",
+      "testName": "Operational Phone Detected",
+      "evidenceText": "Active phone contact available ((212) 555-0199), indicating active business operations.",
+      "source": "Google Places Details",
+      "observedAt": "2026-09-29T16:05:23.082Z",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ev_e1a98b84-e6b8-4b03-b2a3-daa713539b86",
+      "opportunityId": "opp_b56d3d0c-712d-4a90-bdbf-ea489c3a7b01",
+      "businessId": "biz_c1f89fbd-22f4-49d8-9978-f66d059165c1",
+      "testName": "Provider Website URI Query",
+      "evidenceText": "Google Places provider returned no website URI for this establishment.",
+      "source": "Google Places API (New)",
+      "observedAt": "2026-09-29T16:05:23.084Z",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ev_24a80bd3-dbe0-4e01-9f0c-d7ec04a24caa",
+      "opportunityId": "opp_b56d3d0c-712d-4a90-bdbf-ea489c3a7b01",
+      "businessId": "biz_c1f89fbd-22f4-49d8-9978-f66d059165c1",
+      "testName": "Operational Phone Detected",
+      "evidenceText": "Active phone contact available ((212) 555-0199), indicating active business operations.",
+      "source": "Google Places Details",
+      "observedAt": "2026-09-29T16:05:23.084Z",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ev_e4d5d71c-2a71-4c63-8b37-be3fa710a90c",
+      "opportunityId": "opp_137c669a-b398-46c5-b3a2-cdbfbc9ff520",
+      "businessId": "biz_e6260f02-13fd-47cc-9762-c1e8d29c7656",
+      "testName": "Provider Website URI Query",
+      "evidenceText": "Google Places provider returned no website URI for this establishment.",
+      "source": "Google Places API (New)",
+      "observedAt": "2026-09-29T16:05:23.085Z",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ev_7d253b87-1e64-430d-bd28-8f32e51f17d5",
+      "opportunityId": "opp_137c669a-b398-46c5-b3a2-cdbfbc9ff520",
+      "businessId": "biz_e6260f02-13fd-47cc-9762-c1e8d29c7656",
+      "testName": "Operational Phone Detected",
+      "evidenceText": "Active phone contact available (verified), indicating active business operations.",
+      "source": "Google Places Details",
+      "observedAt": "2026-09-29T16:05:23.085Z",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ev_0eaddc7b-82c9-4fd9-b823-0e65c0ef3ff9",
+      "opportunityId": "opp_ccaacc37-13ad-4cec-b8a2-dd0ad225af25",
+      "businessId": "biz_e6260f02-13fd-47cc-9762-c1e8d29c7656",
+      "testName": "Provider Website URI Query",
+      "evidenceText": "Google Places provider returned no website URI for this establishment.",
+      "source": "Google Places API (New)",
+      "observedAt": "2026-09-29T16:05:43.621Z",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "ev_7d058a53-e7f6-403c-b8ed-6de1e3d70e7c",
+      "opportunityId": "opp_ccaacc37-13ad-4cec-b8a2-dd0ad225af25",
+      "businessId": "biz_e6260f02-13fd-47cc-9762-c1e8d29c7656",
+      "testName": "Operational Phone Detected",
+      "evidenceText": "Active phone contact available (+1 212-555-9999), indicating active business operations.",
+      "source": "Google Places Details",
+      "observedAt": "2026-09-29T16:05:43.621Z",
+      "confidence": "HIGH"
+    }
+  ],
+  "leads": [
+    {
+      "id": "test_unit_lead_crm",
+      "businessId": "biz_e6260f02-13fd-47cc-9762-c1e8d29c7656",
+      "status": "PROPOSAL",
+      "priority": "HIGH",
+      "tags": [
+        "test"
+      ],
+      "savedAt": "2026-09-30T17:14:18.126Z",
+      "updatedAt": "2026-09-30T17:14:18.126Z",
+      "totalInteractions": 1
+    }
+  ],
+  "lead_notes": [
+    {
+      "id": "test_note_1",
+      "leadId": "test_unit_lead_crm",
+      "author": "Tester",
+      "content": "Initial assessment complete.",
+      "createdAt": "2026-09-30T17:14:18.126Z"
+    },
+    {
+      "id": "note_1",
+      "leadId": "lead_test_crm_1",
+      "author": "Researcher 1",
+      "content": "Client has high foot traffic but no online appointment portal.",
+      "createdAt": "2026-09-29T16:05:58.507Z"
+    }
+  ],
+  "lead_contacts": [
+    {
+      "id": "test_cnt_1",
+      "leadId": "test_unit_lead_crm",
+      "businessId": "biz_e6260f02-13fd-47cc-9762-c1e8d29c7656",
+      "date": "2026-09-29",
+      "time": "12:00",
+      "method": "phone",
+      "notes": "Initial outreach call",
+      "outcome": "INTERESTED",
+      "loggedAt": "2026-09-30T17:14:18.126Z"
+    },
+    {
+      "id": "cnt_outreach_1",
+      "leadId": "lead_test_crm_1",
+      "businessId": "biz_e6260f02-13fd-47cc-9762-c1e8d29c7656",
+      "date": "2026-09-29",
+      "time": "10:30",
+      "method": "phone",
+      "notes": "Spoke with front desk manager, requested callback on Thursday.",
+      "outcome": "INTERESTED",
+      "nextFollowUp": "2026-10-02",
+      "loggedAt": "2026-09-29T16:05:58.507Z"
+    }
+  ],
+  "follow_ups": [],
+  "business_snapshots": [
+    {
+      "id": "snap_65a869e1-92dc-489c-90d3-bc36d5d82c01",
+      "businessId": "biz_c1f89fbd-22f4-49d8-9978-f66d059165c1",
+      "snapshotDate": "2026-09-29T16:05:12.895Z",
+      "snapshotData": {
+        "name": "Example Test Cafe",
+        "website": "https://example.com",
+        "phone": "(212) 555-0199",
+        "address": "123 Main St, New York, NY 10001, USA",
+        "categories": [
+          "cafe",
+          "food",
+          "restaurant"
+        ],
+        "opportunityTypes": [
+          "NO_MAJOR_ISSUES_DETECTED"
+        ],
+        "socialCount": 0
+      }
+    },
+    {
+      "id": "snap_5ee5ce3b-cc0e-421a-9c28-b018376b1447",
+      "businessId": "biz_e6260f02-13fd-47cc-9762-c1e8d29c7656",
+      "snapshotDate": "2026-09-29T16:05:23.085Z",
+      "snapshotData": {
+        "name": "Completely Unique Dental Care",
+        "address": "456 Elm St, Chicago, IL, USA",
+        "categories": [],
+        "opportunityTypes": [
+          "NO_WEBSITE_DETECTED"
+        ],
+        "socialCount": 0
+      }
+    },
+    {
+      "id": "snap_eb7c74b3-d27b-4236-acf5-5ef2a473a08d",
+      "businessId": "biz_e6260f02-13fd-47cc-9762-c1e8d29c7656",
+      "snapshotDate": "2026-09-29T16:05:43.622Z",
+      "snapshotData": {
+        "name": "Completely Unique Dental Care",
+        "phone": "+1 212-555-9999",
+        "address": "456 Elm St, Chicago, IL, USA",
+        "categories": [],
+        "opportunityTypes": [
+          "NO_WEBSITE_DETECTED"
+        ],
+        "socialCount": 0
+      }
+    }
+  ],
+  "change_events": [
+    {
+      "id": "chg_f9e69f38-471a-4c65-aa40-76fa39d67900",
+      "businessId": "biz_e6260f02-13fd-47cc-9762-c1e8d29c7656",
+      "eventType": "PHONE_CHANGED",
+      "fieldName": "phone",
+      "oldValue": null,
+      "newValue": "+1 212-555-9999",
+      "detectedAt": "2026-09-29T16:05:43.622Z",
+      "source": "Rescan (FULL)"
+    }
+  ],
+  "scan_jobs": [],
+  "scan_items": [],
+  "scan_errors": [],
+  "provider_configs": [
+    {
+      "providerName": "google_places",
+      "isEnabled": true,
+      "hasApiKey": false,
+      "rateLimitPerMinute": 60,
+      "status": "NOT_CONFIGURED",
+      "statusMessage": "API Key required for live Google Places discovery"
+    },
+    {
+      "providerName": "youtube",
+      "isEnabled": true,
+      "hasApiKey": false,
+      "rateLimitPerMinute": 30,
+      "status": "NOT_CONFIGURED",
+      "statusMessage": "Optional YouTube Data API v3 key"
+    },
+    {
+      "providerName": "crawler",
+      "isEnabled": true,
+      "hasApiKey": true,
+      "rateLimitPerMinute": 30,
+      "status": "ONLINE",
+      "statusMessage": "SSRF-protected safe website crawler enabled"
+    }
+  ],
+  "provider_usage": [],
+  "audit_logs": []
+}

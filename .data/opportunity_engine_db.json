@@ -1,0 +1,1439 @@
+{
+  "opportunities": [
+    {
+      "id": "opp_yc_batch",
+      "title": "Y Combinator Early Stage Accelerator Batch",
+      "slug": "yc-early-stage-accelerator-batch",
+      "organizationId": "org_yc",
+      "organizationName": "Y Combinator",
+      "opportunityType": "ACCELERATOR",
+      "category": "Startup Acceleration",
+      "industry": "Artificial Intelligence & Software",
+      "sector": "Venture Capital",
+      "description": "Twice-yearly intensive 3-month startup accelerator providing $500,000 standard investment, intense mentorship, and global investor demo day.",
+      "location": {
+        "city": "San Francisco",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "North America",
+        "lat": 37.7749,
+        "lng": -122.4194,
+        "hubName": "Silicon Valley Hub"
+      },
+      "workMode": "ONSITE",
+      "eligibility": "Founders building innovative technology companies at pre-seed or seed stage. Solo founders and teams welcome.",
+      "requirements": [
+        "Prototype or working demo",
+        "Technical founder or team",
+        "Ability to relocate to SF for 3 months"
+      ],
+      "deadline": "2026-10-15T23:59:59Z",
+      "startDate": "2027-01-08T00:00:00Z",
+      "duration": "12 weeks",
+      "fundingAmount": "$500,000",
+      "benefits": [
+        "$125k for 7% and $375k uncapped MFN SAFE",
+        "Global investor network",
+        "Alumni community access"
+      ],
+      "applicationUrl": "https://www.ycombinator.com/apply",
+      "officialWebsite": "https://www.ycombinator.com",
+      "sourceUrl": "https://www.ycombinator.com/apply",
+      "sourceName": "Y Combinator Admissions",
+      "publicationDate": "2026-08-01T00:00:00Z",
+      "lastUpdatedDate": "2026-09-28T00:00:00Z",
+      "lastVerifiedDate": "2026-09-28",
+      "status": "OPEN",
+      "trustScore": 99,
+      "verificationState": "VERIFIED_OFFICIAL",
+      "tags": [
+        "Accelerator",
+        "Seed Investment",
+        "AI Startups",
+        "Silicon Valley",
+        "Demo Day"
+      ],
+      "relatedOrganizationIds": [
+        "org_yc"
+      ],
+      "relatedPersonaIds": [
+        "per_garry_tan"
+      ]
+    },
+    {
+      "id": "opp_nsf_grfp",
+      "title": "NSF Graduate Research Fellowship Program (GRFP)",
+      "slug": "nsf-graduate-research-fellowship-program",
+      "organizationId": "org_nsf",
+      "organizationName": "National Science Foundation",
+      "opportunityType": "FELLOWSHIP",
+      "category": "Graduate Research Grant",
+      "industry": "Computer Science, AI & Engineering",
+      "sector": "Academic Research",
+      "description": "Five-year fellowship recognizing outstanding graduate students in NSF-supported STEM disciplines, including artificial intelligence, quantum computing, and robotics.",
+      "location": {
+        "city": "Alexandria",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "North America",
+        "lat": 38.8048,
+        "lng": -77.0469,
+        "hubName": "US Capital Corridor"
+      },
+      "workMode": "ONSITE",
+      "eligibility": "US citizens, nationals, or permanent residents pursuing research-based masters or doctoral degrees in STEM.",
+      "requirements": [
+        "Personal statement & research proposal",
+        "Transcripts",
+        "Three letters of recommendation"
+      ],
+      "deadline": "2026-10-20T17:00:00Z",
+      "startDate": "2027-09-01T00:00:00Z",
+      "duration": "3 years of financial support over a 5-year fellowship period",
+      "fundingAmount": "$159,000",
+      "benefits": [
+        "$37,000 annual stipend",
+        "$16,000 cost-of-education allowance to institution",
+        "Supercomputing access"
+      ],
+      "applicationUrl": "https://www.nsfgrfp.org",
+      "officialWebsite": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=6201",
+      "sourceUrl": "https://www.nsfgrfp.org",
+      "sourceName": "NSF GRFP Official Portal",
+      "publicationDate": "2026-07-15T00:00:00Z",
+      "lastUpdatedDate": "2026-09-27T00:00:00Z",
+      "lastVerifiedDate": "2026-09-27",
+      "status": "OPEN",
+      "trustScore": 100,
+      "verificationState": "VERIFIED_OFFICIAL",
+      "tags": [
+        "Fellowship",
+        "PhD Funding",
+        "STEM",
+        "AI Research",
+        "NSF"
+      ],
+      "relatedOrganizationIds": [
+        "org_nsf"
+      ],
+      "relatedPersonaIds": [
+        "per_panchanathan"
+      ]
+    },
+    {
+      "id": "opp_deepmind_fellowship",
+      "title": "DeepMind Academic Research Fellowship in Foundation Models",
+      "slug": "deepmind-academic-research-fellowship",
+      "organizationId": "org_deepmind",
+      "organizationName": "Google DeepMind",
+      "opportunityType": "RESEARCH_PROGRAM",
+      "category": "Postdoctoral Fellowship",
+      "industry": "Machine Learning Theory & Neuroscience",
+      "sector": "Frontier AI Research",
+      "description": "Postdoctoral and early-career investigator fellowships supporting fundamental breakthroughs in multi-agent systems, multimodal reasoning, and algorithmic alignment.",
+      "location": {
+        "city": "London",
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "region": "Europe",
+        "lat": 51.5323,
+        "lng": -0.1245,
+        "hubName": "London Deep Tech Hub"
+      },
+      "workMode": "HYBRID",
+      "eligibility": "PhD holders in Computer Science, Mathematics, Physics, or Computational Neuroscience within 4 years of doctoral degree.",
+      "requirements": [
+        "Curriculum vitae",
+        "Peer-reviewed research publications",
+        "Research proposal (max 4 pages)"
+      ],
+      "deadline": "2026-11-15T23:59:59Z",
+      "startDate": "2027-04-01T00:00:00Z",
+      "duration": "2 years",
+      "fundingAmount": "£180,000",
+      "benefits": [
+        "Competitive research salary",
+        "TPU compute allocation",
+        "Direct mentorship from DeepMind staff scientists"
+      ],
+      "applicationUrl": "https://deepmind.google/fellowships",
+      "officialWebsite": "https://deepmind.google",
+      "sourceUrl": "https://deepmind.google/fellowships",
+      "sourceName": "Google DeepMind Careers & Fellowships",
+      "publicationDate": "2026-08-15T00:00:00Z",
+      "lastUpdatedDate": "2026-09-29T00:00:00Z",
+      "lastVerifiedDate": "2026-09-29",
+      "status": "OPEN",
+      "trustScore": 99,
+      "verificationState": "VERIFIED_OFFICIAL",
+      "tags": [
+        "Fellowship",
+        "Postdoc",
+        "Foundation Models",
+        "London",
+        "DeepMind"
+      ],
+      "relatedOrganizationIds": [
+        "org_deepmind"
+      ],
+      "relatedPersonaIds": [
+        "per_demis_hassabis"
+      ]
+    },
+    {
+      "id": "opp_stationf_fighters",
+      "title": "Station F Fighters Program for Underrepresented Founders",
+      "slug": "station-f-fighters-program",
+      "organizationId": "org_stationf",
+      "organizationName": "Station F",
+      "opportunityType": "STARTUP_PROGRAM",
+      "category": "Diversity & Inclusion Acceleration",
+      "industry": "Technology & Social Impact",
+      "sector": "European Entrepreneurship",
+      "description": "Fully funded one-year residency program at Station F Paris specifically designed for founders from underprivileged, refugee, or non-traditional educational backgrounds.",
+      "location": {
+        "city": "Paris",
+        "country": "France",
+        "countryCode": "FR",
+        "region": "Europe",
+        "lat": 48.8354,
+        "lng": 2.3708,
+        "hubName": "Paris Station F Hub"
+      },
+      "workMode": "ONSITE",
+      "eligibility": "Entrepreneurs without personal wealth, elite degrees, or initial venture backing who have built a promising software or hardware MVP.",
+      "requirements": [
+        "MVP built",
+        "Commitment to be physically present at Station F campus in Paris"
+      ],
+      "deadline": "2026-11-01T23:59:59Z",
+      "startDate": "2027-01-15T00:00:00Z",
+      "duration": "12 months",
+      "fundingAmount": "€35,000",
+      "benefits": [
+        "Free desks at Station F for 1 year",
+        "Perk credits ($50k+ in cloud services)",
+        "Dedicated VC mentors"
+      ],
+      "applicationUrl": "https://stationf.co/programs/fighters",
+      "officialWebsite": "https://stationf.co",
+      "sourceUrl": "https://stationf.co/programs/fighters",
+      "sourceName": "Station F Official Programs",
+      "publicationDate": "2026-08-20T00:00:00Z",
+      "lastUpdatedDate": "2026-09-29T00:00:00Z",
+      "lastVerifiedDate": "2026-09-29",
+      "status": "OPEN",
+      "trustScore": 98,
+      "verificationState": "VERIFIED_OFFICIAL",
+      "tags": [
+        "Incubation",
+        "Underrepresented Founders",
+        "Paris",
+        "Free Workspace"
+      ],
+      "relatedOrganizationIds": [
+        "org_stationf"
+      ],
+      "relatedPersonaIds": [
+        "per_roxanne_varza"
+      ]
+    },
+    {
+      "id": "opp_mistral_fellowship",
+      "title": "Mistral Open Weights Grant & Academic Research Fellowship",
+      "slug": "mistral-open-weights-grant",
+      "organizationId": "org_mistral",
+      "organizationName": "Mistral AI",
+      "opportunityType": "GRANT",
+      "category": "Open Source AI Research",
+      "industry": "Small Language Models & Efficiency",
+      "sector": "Open Science",
+      "description": "Research grants and compute credits supporting independent researchers and universities fine-tuning and evaluating open weights models on novel domains.",
+      "location": {
+        "city": "Paris",
+        "country": "France",
+        "countryCode": "FR",
+        "region": "Europe",
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "hubName": "Paris AI Hub"
+      },
+      "workMode": "REMOTE",
+      "eligibility": "Open source developers, PhD candidates, and academic faculty publishing open-access results and weights.",
+      "requirements": [
+        "GitHub repository of planned work",
+        "Public commitment to open source release"
+      ],
+      "deadline": "2026-12-01T23:59:59Z",
+      "startDate": "2027-01-10T00:00:00Z",
+      "duration": "6 months",
+      "fundingAmount": "€25,000",
+      "benefits": [
+        "€25k direct grant",
+        "€50k API & compute credits",
+        "Spotlight at Mistral DevDay"
+      ],
+      "applicationUrl": "https://mistral.ai/research/grants",
+      "officialWebsite": "https://mistral.ai",
+      "sourceUrl": "https://mistral.ai/research/grants",
+      "sourceName": "Mistral Research Portal",
+      "publicationDate": "2026-09-01T00:00:00Z",
+      "lastUpdatedDate": "2026-09-28T00:00:00Z",
+      "lastVerifiedDate": "2026-09-28",
+      "status": "OPEN",
+      "trustScore": 98,
+      "verificationState": "VERIFIED_OFFICIAL",
+      "tags": [
+        "Grant",
+        "Open Source",
+        "LLM",
+        "Mistral",
+        "Remote"
+      ],
+      "relatedOrganizationIds": [
+        "org_mistral"
+      ],
+      "relatedPersonaIds": [
+        "per_arthur_mensch"
+      ]
+    },
+    {
+      "id": "opp_eth_postdoc",
+      "title": "ETH Zurich AI Center Postdoctoral Fellowship in Robotics",
+      "slug": "eth-zurich-postdoc-fellowship-robotics",
+      "organizationId": "org_eth_zurich",
+      "organizationName": "ETH Zurich AI Center",
+      "opportunityType": "FELLOWSHIP",
+      "category": "Embodied AI & Robotics",
+      "industry": "Autonomous Systems & Control",
+      "sector": "Higher Education",
+      "description": "Prestige fellowship to conduct independent research in embodied artificial intelligence, reinforcement learning, and legged robotics.",
+      "location": {
+        "city": "Zurich",
+        "country": "Switzerland",
+        "countryCode": "CH",
+        "region": "Europe",
+        "lat": 47.3769,
+        "lng": 8.5417,
+        "hubName": "Zurich AI Hub"
+      },
+      "workMode": "ONSITE",
+      "eligibility": "Postdoctoral candidates holding a PhD completed within the last 2 years in robotics, mechatronics, or machine learning.",
+      "requirements": [
+        "Research track record in top robotics venues (ICRA, IROS, RSS)",
+        "Endorsement letter from ETH host professor"
+      ],
+      "deadline": "2026-11-30T23:59:59Z",
+      "startDate": "2027-05-01T00:00:00Z",
+      "duration": "2 years",
+      "fundingAmount": "CHF 220,000",
+      "benefits": [
+        "Swiss National Standard Postdoc Salary (CHF 110k/yr)",
+        "Dedicated laboratory access",
+        "Travel grant"
+      ],
+      "applicationUrl": "https://ai.ethz.ch/fellowships/postdoc",
+      "officialWebsite": "https://ai.ethz.ch",
+      "sourceUrl": "https://ai.ethz.ch/fellowships/postdoc",
+      "sourceName": "ETH Zurich AI Center Official Portal",
+      "publicationDate": "2026-08-10T00:00:00Z",
+      "lastUpdatedDate": "2026-09-25T00:00:00Z",
+      "lastVerifiedDate": "2026-09-25",
+      "status": "OPEN",
+      "trustScore": 99,
+      "verificationState": "VERIFIED_OFFICIAL",
+      "tags": [
+        "Postdoc",
+        "Robotics",
+        "Zurich",
+        "Embodied AI"
+      ],
+      "relatedOrganizationIds": [
+        "org_eth_zurich"
+      ],
+      "relatedPersonaIds": []
+    },
+    {
+      "id": "opp_cdl_ai",
+      "title": "Creative Destruction Lab AI Stream 2026/2027",
+      "slug": "creative-destruction-lab-ai-stream",
+      "organizationId": "org_cdl",
+      "organizationName": "Creative Destruction Lab",
+      "opportunityType": "INCUBATOR",
+      "category": "Science-to-Business Commercialization",
+      "industry": "Deep Learning & Applied AI",
+      "sector": "University Innovation",
+      "description": "Objective-setting program for massively scalable, seed-stage science and technology ventures with world-renowned AI scientists and serial entrepreneurs.",
+      "location": {
+        "city": "Toronto",
+        "country": "Canada",
+        "countryCode": "CA",
+        "region": "North America",
+        "lat": 43.6629,
+        "lng": -79.3957,
+        "hubName": "Toronto AI Corridor"
+      },
+      "workMode": "HYBRID",
+      "eligibility": "Early-stage technology ventures with proprietary AI algorithms, computational biology breakthroughs, or autonomous systems.",
+      "requirements": [
+        "Working prototype",
+        "At least one full-time technical founder"
+      ],
+      "deadline": "2026-10-18T23:59:59Z",
+      "startDate": "2026-11-10T00:00:00Z",
+      "duration": "9 months (5 intensive session days)",
+      "fundingAmount": "CAD $150,000",
+      "benefits": [
+        "No equity taken by CDL",
+        "Direct capital syndication from CDL Fellows",
+        "Rotman student MBA support"
+      ],
+      "applicationUrl": "https://creativedestructionlab.com/apply",
+      "officialWebsite": "https://creativedestructionlab.com",
+      "sourceUrl": "https://creativedestructionlab.com/apply",
+      "sourceName": "CDL Admissions",
+      "publicationDate": "2026-07-01T00:00:00Z",
+      "lastUpdatedDate": "2026-09-28T00:00:00Z",
+      "lastVerifiedDate": "2026-09-28",
+      "status": "OPEN",
+      "trustScore": 98,
+      "verificationState": "VERIFIED_OFFICIAL",
+      "tags": [
+        "Incubation",
+        "Deep Tech",
+        "Zero Equity",
+        "Toronto",
+        "Mentorship"
+      ],
+      "relatedOrganizationIds": [
+        "org_cdl"
+      ],
+      "relatedPersonaIds": []
+    },
+    {
+      "id": "opp_hf_fellowship",
+      "title": "Hugging Face Open Science Fellowships",
+      "slug": "hugging-face-open-science-fellowships",
+      "organizationId": "org_huggingface",
+      "organizationName": "Hugging Face",
+      "opportunityType": "FELLOWSHIP",
+      "category": "Open ML Collaboration",
+      "industry": "Open Source Software & Datasets",
+      "sector": "Community Research",
+      "description": "Funding independent open-source developers creating high-impact datasets, open evaluation benchmarks, or local inference runtimes.",
+      "location": {
+        "city": "New York",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "North America",
+        "lat": 40.7128,
+        "lng": -74.006,
+        "hubName": "Silicon Alley NY"
+      },
+      "workMode": "REMOTE",
+      "eligibility": "Open source maintainers with proven public repositories on GitHub or Hugging Face Hub.",
+      "requirements": [
+        "Active open-source portfolio",
+        "Detailed project milestone breakdown"
+      ],
+      "deadline": "2026-11-20T23:59:59Z",
+      "startDate": "2027-01-05T00:00:00Z",
+      "duration": "6 months",
+      "fundingAmount": "$50,000",
+      "benefits": [
+        "$50,000 stipend",
+        "Unlimited Hugging Face Enterprise compute & GPU spaces",
+        "Community co-authorship"
+      ],
+      "applicationUrl": "https://huggingface.co/fellowships",
+      "officialWebsite": "https://huggingface.co",
+      "sourceUrl": "https://huggingface.co/fellowships",
+      "sourceName": "Hugging Face Research Hub",
+      "publicationDate": "2026-08-01T00:00:00Z",
+      "lastUpdatedDate": "2026-09-29T00:00:00Z",
+      "lastVerifiedDate": "2026-09-29",
+      "status": "OPEN",
+      "trustScore": 99,
+      "verificationState": "VERIFIED_OFFICIAL",
+      "tags": [
+        "Open Source",
+        "Fellowship",
+        "Remote",
+        "Hugging Face",
+        "Datasets"
+      ],
+      "relatedOrganizationIds": [
+        "org_huggingface"
+      ],
+      "relatedPersonaIds": [
+        "per_clement_delangue"
+      ]
+    },
+    {
+      "id": "opp_techstars_tokyo",
+      "title": "Techstars Tokyo Innovation Accelerator",
+      "slug": "techstars-tokyo-innovation-accelerator",
+      "organizationId": "org_techstars",
+      "organizationName": "Techstars",
+      "opportunityType": "ACCELERATOR",
+      "category": "Asia-Pacific Market Expansion",
+      "industry": "Enterprise Software & Robotics",
+      "sector": "Venture Capital",
+      "description": "Flagship Tokyo accelerator bridging Western and Asian enterprise technology founders with Japan major corporate networks.",
+      "location": {
+        "city": "Tokyo",
+        "country": "Japan",
+        "countryCode": "JP",
+        "region": "Asia-Pacific",
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "hubName": "Tokyo Robotics & AI Hub"
+      },
+      "workMode": "ONSITE",
+      "eligibility": "Startups with bilingual leadership or ambition to enter the Japanese and Asian technology markets.",
+      "requirements": [
+        "Incorporated entity",
+        "B2B software or robotics proposition"
+      ],
+      "deadline": "2026-10-30T23:59:59Z",
+      "startDate": "2027-02-01T00:00:00Z",
+      "duration": "13 weeks",
+      "fundingAmount": "$120,000",
+      "benefits": [
+        "$120k initial investment",
+        "Access to Japanese Fortune 500 partners",
+        "Global Techstars alumni network"
+      ],
+      "applicationUrl": "https://www.techstars.com/accelerators/tokyo",
+      "officialWebsite": "https://www.techstars.com",
+      "sourceUrl": "https://www.techstars.com/accelerators/tokyo",
+      "sourceName": "Techstars Tokyo Program",
+      "publicationDate": "2026-08-10T00:00:00Z",
+      "lastUpdatedDate": "2026-09-29T00:00:00Z",
+      "lastVerifiedDate": "2026-09-29",
+      "status": "OPEN",
+      "trustScore": 98,
+      "verificationState": "VERIFIED_OFFICIAL",
+      "tags": [
+        "Accelerator",
+        "Tokyo",
+        "Asia-Pacific",
+        "Enterprise",
+        "Robotics"
+      ],
+      "relatedOrganizationIds": [
+        "org_techstars"
+      ],
+      "relatedPersonaIds": []
+    },
+    {
+      "id": "opp_mozilla_tech_fund",
+      "title": "Mozilla Technology Fund: Auditing Open Source AI",
+      "slug": "mozilla-technology-fund-auditing-open-source-ai",
+      "organizationId": "org_mozilla",
+      "organizationName": "Mozilla Foundation",
+      "opportunityType": "GRANT",
+      "category": "Public Interest Technology",
+      "industry": "AI Safety, Transparency & Auditing",
+      "sector": "Nonprofit Grants",
+      "description": "Grants of up to $50,000 for open source tooling that enhances model auditing, algorithmic bias detection, and dataset provenance.",
+      "location": {
+        "city": "San Francisco",
+        "country": "United States",
+        "countryCode": "US",
+        "region": "North America",
+        "lat": 37.7897,
+        "lng": -122.3942,
+        "hubName": "Silicon Valley Hub"
+      },
+      "workMode": "REMOTE",
+      "eligibility": "Nonprofit, university, or independent open-source developers worldwide with an active codebase under OSI-approved licenses.",
+      "requirements": [
+        "OSI-approved open source license",
+        "Public bug tracker and documentation"
+      ],
+      "deadline": "2026-11-10T23:59:59Z",
+      "startDate": "2027-01-15T00:00:00Z",
+      "duration": "8 months",
+      "fundingAmount": "$50,000",
+      "benefits": [
+        "Direct non-dilutive grant",
+        "Mentorship from Mozilla Fellow network",
+        "Promotion across Mozilla community"
+      ],
+      "applicationUrl": "https://foundation.mozilla.org/what-we-fund/technology-fund",
+      "officialWebsite": "https://foundation.mozilla.org",
+      "sourceUrl": "https://foundation.mozilla.org/what-we-fund/technology-fund",
+      "sourceName": "Mozilla Foundation Grants Portal",
+      "publicationDate": "2026-08-25T00:00:00Z",
+      "lastUpdatedDate": "2026-09-26T00:00:00Z",
+      "lastVerifiedDate": "2026-09-26",
+      "status": "OPEN",
+      "trustScore": 99,
+      "verificationState": "VERIFIED_OFFICIAL",
+      "tags": [
+        "Grant",
+        "Non-dilutive",
+        "AI Safety",
+        "Open Source",
+        "Mozilla"
+      ],
+      "relatedOrganizationIds": [
+        "org_mozilla"
+      ],
+      "relatedPersonaIds": []
+    }
+  ],
+  "organizations": [
+    {
+      "id": "org_yc",
+      "name": "Y Combinator",
+      "normalizedName": "y combinator",
+      "slug": "y-combinator",
+      "businessTypes": [
+        "Accelerator",
+        "Venture Capital",
+        "Startup"
+      ],
+      "industry": "Venture Capital & Technology Accelerators",
+      "sector": "Early Stage Technology",
+      "companySize": "51-200 employees",
+      "headquarters": {
+        "city": "San Francisco",
+        "country": "United States",
+        "countryCode": "US",
+        "lat": 37.7749,
+        "lng": -122.4194,
+        "formattedAddress": "San Francisco, CA, USA"
+      },
+      "countriesServed": [
+        "Global"
+      ],
+      "citiesServed": [
+        "San Francisco",
+        "Remote"
+      ],
+      "website": "https://www.ycombinator.com",
+      "officialSource": "https://www.ycombinator.com/about",
+      "foundedYear": 2005,
+      "description": "Startup fund and community that has funded over 4,000 startups including Stripe, Airbnb, DoorDash, and Coinbase.",
+      "productsServices": [
+        "Seed Investment",
+        "Startup Mentorship",
+        "Founder Community",
+        "Demo Day"
+      ],
+      "organizationStatus": "ACTIVE",
+      "opportunitiesOfferedCount": 2,
+      "relatedOrganizationIds": [],
+      "provenance": {
+        "connectorId": "connector_official_apis",
+        "discoveredAt": "2026-01-15T00:00:00Z",
+        "lastCheckedAt": "2026-09-30T00:00:00Z"
+      },
+      "lastVerifiedDate": "2026-09-28",
+      "trustScore": 99
+    },
+    {
+      "id": "org_techstars",
+      "name": "Techstars",
+      "normalizedName": "techstars",
+      "slug": "techstars",
+      "businessTypes": [
+        "Accelerator",
+        "Investment Firm"
+      ],
+      "industry": "Venture Capital & Accelerators",
+      "sector": "Global Technology",
+      "companySize": "201-500 employees",
+      "headquarters": {
+        "city": "Boulder",
+        "country": "United States",
+        "countryCode": "US",
+        "lat": 40.015,
+        "lng": -105.2705,
+        "formattedAddress": "Boulder, CO, USA"
+      },
+      "countriesServed": [
+        "United States",
+        "United Kingdom",
+        "Germany",
+        "France",
+        "Singapore",
+        "Japan"
+      ],
+      "citiesServed": [
+        "London",
+        "Berlin",
+        "Paris",
+        "Tokyo",
+        "Singapore",
+        "New York"
+      ],
+      "website": "https://www.techstars.com",
+      "officialSource": "https://www.techstars.com/accelerators",
+      "foundedYear": 2006,
+      "description": "Global investment and innovation platform providing entrepreneurs with capital, mentorship, and worldwide network.",
+      "productsServices": [
+        "Mentorship-Driven Accelerators",
+        "Venture Capital Funds",
+        "Startup Weekend"
+      ],
+      "organizationStatus": "ACTIVE",
+      "opportunitiesOfferedCount": 3,
+      "relatedOrganizationIds": [],
+      "provenance": {
+        "connectorId": "connector_official_apis",
+        "discoveredAt": "2026-01-15T00:00:00Z",
+        "lastCheckedAt": "2026-09-30T00:00:00Z"
+      },
+      "lastVerifiedDate": "2026-09-29",
+      "trustScore": 98
+    },
+    {
+      "id": "org_nsf",
+      "name": "National Science Foundation",
+      "normalizedName": "national science foundation",
+      "slug": "national-science-foundation",
+      "businessTypes": [
+        "Government Organization",
+        "Research Organization"
+      ],
+      "industry": "Scientific Research & Federal Grants",
+      "sector": "Public Sector Science & Engineering",
+      "headquarters": {
+        "city": "Alexandria",
+        "country": "United States",
+        "countryCode": "US",
+        "lat": 38.8048,
+        "lng": -77.0469,
+        "formattedAddress": "2415 Eisenhower Ave, Alexandria, VA 22314, USA"
+      },
+      "countriesServed": [
+        "United States"
+      ],
+      "citiesServed": [
+        "Nationwide"
+      ],
+      "website": "https://www.nsf.gov",
+      "officialSource": "https://www.nsf.gov/funding",
+      "foundedYear": 1950,
+      "description": "Independent federal agency created to promote the progress of science, advance national health, and secure national defense.",
+      "productsServices": [
+        "Research Grants",
+        "Graduate Research Fellowships",
+        "SBIR/STTR Seed Grants"
+      ],
+      "organizationStatus": "ACTIVE",
+      "opportunitiesOfferedCount": 4,
+      "relatedOrganizationIds": [],
+      "provenance": {
+        "connectorId": "connector_open_data",
+        "discoveredAt": "2026-01-10T00:00:00Z",
+        "lastCheckedAt": "2026-09-30T00:00:00Z"
+      },
+      "lastVerifiedDate": "2026-09-27",
+      "trustScore": 100
+    },
+    {
+      "id": "org_deepmind",
+      "name": "Google DeepMind",
+      "normalizedName": "google deepmind",
+      "slug": "google-deepmind",
+      "businessTypes": [
+        "Research Organization",
+        "Enterprise",
+        "Technology Company"
+      ],
+      "industry": "Artificial Intelligence Research",
+      "sector": "Frontier AI & Science",
+      "companySize": "1000+ employees",
+      "headquarters": {
+        "city": "London",
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "lat": 51.5323,
+        "lng": -0.1245,
+        "formattedAddress": "6 Pancras Square, Kings Cross, London N1C 4AG, UK"
+      },
+      "countriesServed": [
+        "Global"
+      ],
+      "citiesServed": [
+        "London",
+        "Mountain View",
+        "Paris",
+        "Zurich"
+      ],
+      "website": "https://deepmind.google",
+      "officialSource": "https://deepmind.google/about",
+      "foundedYear": 2010,
+      "description": "Pioneering scientific and general intelligence research lab responsible for AlphaFold, AlphaGo, and Gemini multimodal models.",
+      "productsServices": [
+        "Frontier AI Models",
+        "Scientific Research",
+        "Academic Fellowships",
+        "PhD Sponsorships"
+      ],
+      "organizationStatus": "ACTIVE",
+      "opportunitiesOfferedCount": 2,
+      "relatedOrganizationIds": [],
+      "provenance": {
+        "connectorId": "connector_official_apis",
+        "discoveredAt": "2026-01-15T00:00:00Z",
+        "lastCheckedAt": "2026-09-30T00:00:00Z"
+      },
+      "lastVerifiedDate": "2026-09-28",
+      "trustScore": 99
+    },
+    {
+      "id": "org_stationf",
+      "name": "Station F",
+      "normalizedName": "station f",
+      "slug": "station-f",
+      "businessTypes": [
+        "Incubator",
+        "Community",
+        "Nonprofit"
+      ],
+      "industry": "Startup Campus & Incubation",
+      "sector": "European Innovation Hub",
+      "headquarters": {
+        "city": "Paris",
+        "country": "France",
+        "countryCode": "FR",
+        "lat": 48.8354,
+        "lng": 2.3708,
+        "formattedAddress": "5 Parvis Alan Turing, 75013 Paris, France"
+      },
+      "countriesServed": [
+        "France",
+        "European Union",
+        "Global"
+      ],
+      "citiesServed": [
+        "Paris"
+      ],
+      "website": "https://stationf.co",
+      "officialSource": "https://stationf.co/programs",
+      "foundedYear": 2017,
+      "description": "The worlds largest startup campus, hosting over 1,000 early-stage ventures and 30 distinct entrepreneurial programs.",
+      "productsServices": [
+        "Fighters Program",
+        "Founders Program",
+        "Campus Workspace",
+        "Venture Office Hours"
+      ],
+      "organizationStatus": "ACTIVE",
+      "opportunitiesOfferedCount": 2,
+      "relatedOrganizationIds": [],
+      "provenance": {
+        "connectorId": "connector_directory",
+        "discoveredAt": "2026-02-01T00:00:00Z",
+        "lastCheckedAt": "2026-09-30T00:00:00Z"
+      },
+      "lastVerifiedDate": "2026-09-29",
+      "trustScore": 97
+    },
+    {
+      "id": "org_mistral",
+      "name": "Mistral AI",
+      "normalizedName": "mistral ai",
+      "slug": "mistral-ai",
+      "businessTypes": [
+        "Startup",
+        "Technology Company",
+        "Research Organization"
+      ],
+      "industry": "Generative AI & Open Weights Software",
+      "sector": "European Frontier Technology",
+      "companySize": "51-200 employees",
+      "headquarters": {
+        "city": "Paris",
+        "country": "France",
+        "countryCode": "FR",
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "formattedAddress": "Paris, France"
+      },
+      "countriesServed": [
+        "Global"
+      ],
+      "citiesServed": [
+        "Paris",
+        "Remote"
+      ],
+      "website": "https://mistral.ai",
+      "officialSource": "https://mistral.ai/company",
+      "foundedYear": 2023,
+      "description": "Independent AI laboratory building open and portable generative AI models with leading computational efficiency.",
+      "productsServices": [
+        "Open Weights Models",
+        "La Plateforme API",
+        "Research Fellowships"
+      ],
+      "organizationStatus": "ACTIVE",
+      "opportunitiesOfferedCount": 2,
+      "relatedOrganizationIds": [],
+      "provenance": {
+        "connectorId": "connector_official_apis",
+        "discoveredAt": "2026-02-10T00:00:00Z",
+        "lastCheckedAt": "2026-09-30T00:00:00Z"
+      },
+      "lastVerifiedDate": "2026-09-28",
+      "trustScore": 98
+    },
+    {
+      "id": "org_eth_zurich",
+      "name": "ETH Zurich AI Center",
+      "normalizedName": "eth zurich ai center",
+      "slug": "eth-zurich-ai-center",
+      "businessTypes": [
+        "University",
+        "Research Organization"
+      ],
+      "industry": "Higher Education & Robotics Research",
+      "sector": "Academic Excellence",
+      "headquarters": {
+        "city": "Zurich",
+        "country": "Switzerland",
+        "countryCode": "CH",
+        "lat": 47.3769,
+        "lng": 8.5417,
+        "formattedAddress": "ETH Zentrum, Rämistrasse 101, 8092 Zürich, Switzerland"
+      },
+      "countriesServed": [
+        "Switzerland",
+        "Europe",
+        "Global"
+      ],
+      "citiesServed": [
+        "Zurich"
+      ],
+      "website": "https://ai.ethz.ch",
+      "officialSource": "https://ai.ethz.ch/fellowships",
+      "foundedYear": 1855,
+      "description": "Central hub bringing together AI researchers across departments to advance foundational theory and impactful applications.",
+      "productsServices": [
+        "Postdoctoral Fellowships",
+        "Doctoral Programs",
+        "Industry Collaboration Labs"
+      ],
+      "organizationStatus": "ACTIVE",
+      "opportunitiesOfferedCount": 2,
+      "relatedOrganizationIds": [],
+      "provenance": {
+        "connectorId": "connector_rss_feeds",
+        "discoveredAt": "2026-02-15T00:00:00Z",
+        "lastCheckedAt": "2026-09-30T00:00:00Z"
+      },
+      "lastVerifiedDate": "2026-09-25",
+      "trustScore": 99
+    },
+    {
+      "id": "org_cdl",
+      "name": "Creative Destruction Lab",
+      "normalizedName": "creative destruction lab",
+      "slug": "creative-destruction-lab",
+      "businessTypes": [
+        "Incubator",
+        "University",
+        "Nonprofit"
+      ],
+      "industry": "Deep Tech Commercialization",
+      "sector": "University-Affiliated Acceleration",
+      "headquarters": {
+        "city": "Toronto",
+        "country": "Canada",
+        "countryCode": "CA",
+        "lat": 43.6629,
+        "lng": -79.3957,
+        "formattedAddress": "Rotman School of Management, 105 St George St, Toronto, ON, Canada"
+      },
+      "countriesServed": [
+        "Canada",
+        "United States",
+        "United Kingdom",
+        "Germany",
+        "Australia"
+      ],
+      "citiesServed": [
+        "Toronto",
+        "Oxford",
+        "Berlin",
+        "Melbourne",
+        "Vancouver"
+      ],
+      "website": "https://creativedestructionlab.com",
+      "officialSource": "https://creativedestructionlab.com/streams",
+      "foundedYear": 2012,
+      "description": "Nonprofit program for massively scalable, seed-stage science- and technology-based companies.",
+      "productsServices": [
+        "CDL AI Stream",
+        "Quantum Stream",
+        "Space Stream",
+        "Mentorship from accomplished entrepreneurs"
+      ],
+      "organizationStatus": "ACTIVE",
+      "opportunitiesOfferedCount": 2,
+      "relatedOrganizationIds": [],
+      "provenance": {
+        "connectorId": "connector_directory",
+        "discoveredAt": "2026-03-01T00:00:00Z",
+        "lastCheckedAt": "2026-09-30T00:00:00Z"
+      },
+      "lastVerifiedDate": "2026-09-28",
+      "trustScore": 98
+    },
+    {
+      "id": "org_huggingface",
+      "name": "Hugging Face",
+      "normalizedName": "hugging face",
+      "slug": "hugging-face",
+      "businessTypes": [
+        "Technology Company",
+        "Community"
+      ],
+      "industry": "Open Source Machine Learning Platform",
+      "sector": "Software Infrastructure",
+      "companySize": "201-500 employees",
+      "headquarters": {
+        "city": "New York",
+        "country": "United States",
+        "countryCode": "US",
+        "lat": 40.7128,
+        "lng": -74.006,
+        "formattedAddress": "New York, NY, USA"
+      },
+      "countriesServed": [
+        "Global"
+      ],
+      "citiesServed": [
+        "New York",
+        "Paris",
+        "Remote"
+      ],
+      "website": "https://huggingface.co",
+      "officialSource": "https://huggingface.co/about",
+      "foundedYear": 2016,
+      "description": "The platform where the machine learning community collaborates on models, datasets, and applications.",
+      "productsServices": [
+        "Model Hub",
+        "Datasets Hub",
+        "Spaces Demo Hosting",
+        "Open Science Fellowships"
+      ],
+      "organizationStatus": "ACTIVE",
+      "opportunitiesOfferedCount": 2,
+      "relatedOrganizationIds": [],
+      "provenance": {
+        "connectorId": "connector_official_apis",
+        "discoveredAt": "2026-01-20T00:00:00Z",
+        "lastCheckedAt": "2026-09-30T00:00:00Z"
+      },
+      "lastVerifiedDate": "2026-09-29",
+      "trustScore": 99
+    },
+    {
+      "id": "org_mozilla",
+      "name": "Mozilla Foundation",
+      "normalizedName": "mozilla foundation",
+      "slug": "mozilla-foundation",
+      "businessTypes": [
+        "Nonprofit",
+        "NGO"
+      ],
+      "industry": "Internet Health & Open Source Advocacy",
+      "sector": "Public Interest Technology",
+      "headquarters": {
+        "city": "San Francisco",
+        "country": "United States",
+        "countryCode": "US",
+        "lat": 37.7897,
+        "lng": -122.3942,
+        "formattedAddress": "San Francisco, CA, USA"
+      },
+      "countriesServed": [
+        "Global"
+      ],
+      "citiesServed": [
+        "Worldwide"
+      ],
+      "website": "https://foundation.mozilla.org",
+      "officialSource": "https://foundation.mozilla.org/en/what-we-fund",
+      "foundedYear": 2003,
+      "description": "Nonprofit organization that supports open source projects, digital privacy advocacy, and public interest technology innovation.",
+      "productsServices": [
+        "Mozilla Technology Fund",
+        "Open Source Research Grants",
+        "Senior Fellowships"
+      ],
+      "organizationStatus": "ACTIVE",
+      "opportunitiesOfferedCount": 2,
+      "relatedOrganizationIds": [],
+      "provenance": {
+        "connectorId": "connector_open_data",
+        "discoveredAt": "2026-02-15T00:00:00Z",
+        "lastCheckedAt": "2026-09-30T00:00:00Z"
+      },
+      "lastVerifiedDate": "2026-09-26",
+      "trustScore": 99
+    }
+  ],
+  "personas": [
+    {
+      "id": "per_garry_tan",
+      "name": "Garry Tan",
+      "normalizedName": "garry tan",
+      "roleTitle": "President & CEO",
+      "organizationId": "org_yc",
+      "organizationName": "Y Combinator",
+      "personaType": "Executive",
+      "publicProfileUrl": "https://www.linkedin.com/in/garrytan",
+      "officialStaffPageUrl": "https://www.ycombinator.com/people/garry-tan",
+      "publicContact": {
+        "officialContactPageUrl": "https://www.ycombinator.com/contact",
+        "officialWebsite": "https://garrytan.com",
+        "publicOfficeLocation": "San Francisco, CA, USA"
+      },
+      "privacyClassification": "PUBLIC_OFFICIAL_CONTACT",
+      "relevantOpportunityIds": [
+        "opp_yc_batch"
+      ],
+      "provenance": {
+        "sourceUrl": "https://www.ycombinator.com/people/garry-tan",
+        "sourceName": "Y Combinator Official Staff Directory",
+        "discoveredAt": "2026-01-15T00:00:00Z"
+      },
+      "lastVerifiedDate": "2026-09-28"
+    },
+    {
+      "id": "per_demis_hassabis",
+      "name": "Sir Demis Hassabis",
+      "normalizedName": "demis hassabis",
+      "roleTitle": "CEO & Co-Founder",
+      "organizationId": "org_deepmind",
+      "organizationName": "Google DeepMind",
+      "personaType": "Founder",
+      "publicProfileUrl": "https://x.com/demishassabis",
+      "officialStaffPageUrl": "https://deepmind.google/about",
+      "publicContact": {
+        "officialContactPageUrl": "https://deepmind.google/contact",
+        "publicOfficeLocation": "Kings Cross, London, UK"
+      },
+      "privacyClassification": "PUBLIC_OFFICIAL_CONTACT",
+      "relevantOpportunityIds": [
+        "opp_deepmind_fellowship"
+      ],
+      "provenance": {
+        "sourceUrl": "https://deepmind.google/about",
+        "sourceName": "Google DeepMind Leadership Directory",
+        "discoveredAt": "2026-01-15T00:00:00Z"
+      },
+      "lastVerifiedDate": "2026-09-29"
+    },
+    {
+      "id": "per_arthur_mensch",
+      "name": "Arthur Mensch",
+      "normalizedName": "arthur mensch",
+      "roleTitle": "CEO & Co-Founder",
+      "organizationId": "org_mistral",
+      "organizationName": "Mistral AI",
+      "personaType": "CEO",
+      "publicProfileUrl": "https://www.linkedin.com/in/arthur-mensch",
+      "officialStaffPageUrl": "https://mistral.ai/company",
+      "publicContact": {
+        "officialContactPageUrl": "https://mistral.ai/contact",
+        "publicOfficeLocation": "Paris, France"
+      },
+      "privacyClassification": "PUBLIC_OFFICIAL_CONTACT",
+      "relevantOpportunityIds": [
+        "opp_mistral_fellowship"
+      ],
+      "provenance": {
+        "sourceUrl": "https://mistral.ai/company",
+        "sourceName": "Mistral AI Corporate Directory",
+        "discoveredAt": "2026-02-10T00:00:00Z"
+      },
+      "lastVerifiedDate": "2026-09-28"
+    },
+    {
+      "id": "per_clement_delangue",
+      "name": "Clément Delangue",
+      "normalizedName": "clement delangue",
+      "roleTitle": "Co-Founder & CEO",
+      "organizationId": "org_huggingface",
+      "organizationName": "Hugging Face",
+      "personaType": "Founder",
+      "publicProfileUrl": "https://www.linkedin.com/in/clementdelangue",
+      "officialStaffPageUrl": "https://huggingface.co",
+      "publicContact": {
+        "officialContactPageUrl": "https://huggingface.co/contact",
+        "publicOfficeLocation": "New York, NY, USA"
+      },
+      "privacyClassification": "PUBLIC_OFFICIAL_CONTACT",
+      "relevantOpportunityIds": [
+        "opp_hf_fellowship"
+      ],
+      "provenance": {
+        "sourceUrl": "https://huggingface.co",
+        "sourceName": "Hugging Face Official Roster",
+        "discoveredAt": "2026-01-20T00:00:00Z"
+      },
+      "lastVerifiedDate": "2026-09-29"
+    },
+    {
+      "id": "per_roxanne_varza",
+      "name": "Roxanne Varza",
+      "normalizedName": "roxanne varza",
+      "roleTitle": "Director",
+      "organizationId": "org_stationf",
+      "organizationName": "Station F",
+      "personaType": "Program Manager",
+      "publicProfileUrl": "https://www.linkedin.com/in/roxannevarza",
+      "officialStaffPageUrl": "https://stationf.co",
+      "publicContact": {
+        "officialContactPageUrl": "https://stationf.co/contact",
+        "publicOfficeLocation": "Paris, France"
+      },
+      "privacyClassification": "PUBLIC_OFFICIAL_CONTACT",
+      "relevantOpportunityIds": [
+        "opp_stationf_fighters"
+      ],
+      "provenance": {
+        "sourceUrl": "https://stationf.co",
+        "sourceName": "Station F Leadership Directory",
+        "discoveredAt": "2026-02-01T00:00:00Z"
+      },
+      "lastVerifiedDate": "2026-09-29"
+    },
+    {
+      "id": "per_panchanathan",
+      "name": "Dr. Sethuraman Panchanathan",
+      "normalizedName": "sethuraman panchanathan",
+      "roleTitle": "Director",
+      "organizationId": "org_nsf",
+      "organizationName": "National Science Foundation",
+      "personaType": "Executive",
+      "publicProfileUrl": "https://www.nsf.gov/od",
+      "officialStaffPageUrl": "https://www.nsf.gov/od",
+      "publicContact": {
+        "officialContactPageUrl": "https://www.nsf.gov/help/contact.jsp",
+        "publicOfficeLocation": "Alexandria, VA, USA"
+      },
+      "privacyClassification": "PUBLIC_OFFICIAL_CONTACT",
+      "relevantOpportunityIds": [
+        "opp_nsf_grfp"
+      ],
+      "provenance": {
+        "sourceUrl": "https://www.nsf.gov/od",
+        "sourceName": "NSF Office of the Director",
+        "discoveredAt": "2026-01-10T00:00:00Z"
+      },
+      "lastVerifiedDate": "2026-09-27"
+    }
+  ],
+  "connectors": [
+    {
+      "id": "connector_official_apis",
+      "name": "Official First-Party Public APIs",
+      "type": "API",
+      "baseUrl": "https://api.github.com/repos",
+      "endpoint": "/orgs/accelerators/public-data",
+      "pollIntervalMinutes": 60,
+      "enabled": true,
+      "rateLimitPerMinute": 30,
+      "lastRunAt": "2026-09-30T17:14:16.241Z",
+      "nextRunAt": "2026-09-30T18:14:16.242Z",
+      "lastStatus": "SUCCESS",
+      "lastItemCount": 3
+    },
+    {
+      "id": "connector_rss_feeds",
+      "name": "University & Research RSS/Atom Feeds",
+      "type": "RSS_ATOM",
+      "baseUrl": "https://ai.ethz.ch/rss.xml",
+      "pollIntervalMinutes": 120,
+      "enabled": true,
+      "rateLimitPerMinute": 20,
+      "lastRunAt": "2026-09-30T17:14:16.241Z",
+      "nextRunAt": "2026-09-30T19:14:16.242Z",
+      "lastStatus": "SUCCESS",
+      "lastItemCount": 3
+    },
+    {
+      "id": "connector_open_data",
+      "name": "Government & Public Grants Registry",
+      "type": "OPEN_DATA",
+      "baseUrl": "https://api.nsf.gov/services/v1/awards",
+      "pollIntervalMinutes": 240,
+      "enabled": true,
+      "rateLimitPerMinute": 15,
+      "lastRunAt": "2026-09-30T17:14:16.241Z",
+      "nextRunAt": "2026-09-30T21:14:16.242Z",
+      "lastStatus": "SUCCESS",
+      "lastItemCount": 3
+    },
+    {
+      "id": "connector_directory",
+      "name": "Permitted Accelerator & Directory Indexes",
+      "type": "DIRECTORY",
+      "baseUrl": "https://stationf.co/programs/feed",
+      "pollIntervalMinutes": 180,
+      "enabled": true,
+      "rateLimitPerMinute": 15,
+      "lastRunAt": "2026-09-30T17:14:16.241Z",
+      "nextRunAt": "2026-09-30T20:14:16.242Z",
+      "lastStatus": "SUCCESS",
+      "lastItemCount": 3
+    }
+  ],
+  "ingestionLogs": [
+    {
+      "id": "log_1790788456242",
+      "connectorId": "all_connectors",
+      "connectorName": "All Connectors Synchronized",
+      "startedAt": "2026-09-30T17:14:16.241Z",
+      "finishedAt": "2026-09-30T17:14:16.242Z",
+      "itemsFetched": 12,
+      "itemsNormalized": 12,
+      "itemsDeduplicated": 4,
+      "itemsInserted": 0,
+      "itemsUpdated": 8,
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log_1790788382441",
+      "connectorId": "all_connectors",
+      "connectorName": "All Connectors Synchronized",
+      "startedAt": "2026-09-30T17:13:02.440Z",
+      "finishedAt": "2026-09-30T17:13:02.441Z",
+      "itemsFetched": 12,
+      "itemsNormalized": 12,
+      "itemsDeduplicated": 4,
+      "itemsInserted": 0,
+      "itemsUpdated": 8,
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log_1790788357039",
+      "connectorId": "all_connectors",
+      "connectorName": "All Connectors Synchronized",
+      "startedAt": "2026-09-30T17:12:37.038Z",
+      "finishedAt": "2026-09-30T17:12:37.039Z",
+      "itemsFetched": 12,
+      "itemsNormalized": 12,
+      "itemsDeduplicated": 4,
+      "itemsInserted": 0,
+      "itemsUpdated": 8,
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log_1790788076528",
+      "connectorId": "all_connectors",
+      "connectorName": "All Connectors Synchronized",
+      "startedAt": "2026-09-30T17:07:56.528Z",
+      "finishedAt": "2026-09-30T17:07:56.528Z",
+      "itemsFetched": 12,
+      "itemsNormalized": 12,
+      "itemsDeduplicated": 4,
+      "itemsInserted": 0,
+      "itemsUpdated": 8,
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log_1790788025860",
+      "connectorId": "all_connectors",
+      "connectorName": "All Connectors Synchronized",
+      "startedAt": "2026-09-30T17:07:05.860Z",
+      "finishedAt": "2026-09-30T17:07:05.860Z",
+      "itemsFetched": 12,
+      "itemsNormalized": 12,
+      "itemsDeduplicated": 4,
+      "itemsInserted": 0,
+      "itemsUpdated": 8,
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log_1790788013274",
+      "connectorId": "all_connectors",
+      "connectorName": "All Connectors Synchronized",
+      "startedAt": "2026-09-30T17:06:53.273Z",
+      "finishedAt": "2026-09-30T17:06:53.274Z",
+      "itemsFetched": 12,
+      "itemsNormalized": 12,
+      "itemsDeduplicated": 4,
+      "itemsInserted": 0,
+      "itemsUpdated": 8,
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log_001",
+      "connectorId": "connector_official_apis",
+      "connectorName": "Official First-Party Public APIs",
+      "startedAt": "2026-09-30T07:58:12Z",
+      "finishedAt": "2026-09-30T08:00:02Z",
+      "itemsFetched": 18,
+      "itemsNormalized": 18,
+      "itemsDeduplicated": 4,
+      "itemsInserted": 2,
+      "itemsUpdated": 12,
+      "status": "SUCCESS"
+    },
+    {
+      "id": "log_002",
+      "connectorId": "connector_rss_feeds",
+      "connectorName": "University & Research RSS/Atom Feeds",
+      "startedAt": "2026-09-30T07:29:40Z",
+      "finishedAt": "2026-09-30T07:30:15Z",
+      "itemsFetched": 10,
+      "itemsNormalized": 10,
+      "itemsDeduplicated": 2,
+      "itemsInserted": 1,
+      "itemsUpdated": 7,
+      "status": "SUCCESS"
+    }
+  ],
+  "duplicateCountPrevented": 66,
+  "systemEvents": [
+    {
+      "id": "evt_1790788456242",
+      "type": "NEW_SOURCE_SYNCED",
+      "title": "Connector Harvest Completed: All Connectors Synchronized",
+      "description": "Ingested 12 records, normalized 12, and prevented duplicate items.",
+      "entityId": "all_connectors",
+      "entityType": "connector",
+      "sourceName": "All Connectors Synchronized",
+      "sourceUrl": "https://data.gov",
+      "timestamp": "2026-09-30T17:14:16.242Z",
+      "severity": "normal",
+      "linkUrl": "/ingestion"
+    },
+    {
+      "id": "evt_1790788382441",
+      "type": "NEW_SOURCE_SYNCED",
+      "title": "Connector Harvest Completed: All Connectors Synchronized",
+      "description": "Ingested 12 records, normalized 12, and prevented duplicate items.",
+      "entityId": "all_connectors",
+      "entityType": "connector",
+      "sourceName": "All Connectors Synchronized",
+      "sourceUrl": "https://data.gov",
+      "timestamp": "2026-09-30T17:13:02.441Z",
+      "severity": "normal",
+      "linkUrl": "/ingestion"
+    },
+    {
+      "id": "evt_1790788357039",
+      "type": "NEW_SOURCE_SYNCED",
+      "title": "Connector Harvest Completed: All Connectors Synchronized",
+      "description": "Ingested 12 records, normalized 12, and prevented duplicate items.",
+      "entityId": "all_connectors",
+      "entityType": "connector",
+      "sourceName": "All Connectors Synchronized",
+      "sourceUrl": "https://data.gov",
+      "timestamp": "2026-09-30T17:12:37.039Z",
+      "severity": "normal",
+      "linkUrl": "/ingestion"
+    }
+  ]
+}

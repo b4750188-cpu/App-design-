@@ -1,0 +1,7 @@
+{
+  "name": "Global Website Opportunity Finder",
+  "description": "Global Opportunity platform and geospatial intelligence command center with progressive Level-of-Detail cartography, automated data-gathering engine, and verified public personas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
